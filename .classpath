@@ -19,5 +19,11 @@
 	<classpathentry kind="src" path="Listas"/>
 	<classpathentry kind="src" path="Polimorfismo"/>
 	<classpathentry kind="src" path="Heranca"/>
+	<classpathentry kind="src" path="CRUD"/>
+	<classpathentry kind="src" path="Cap8_lab1"/>
+	<classpathentry kind="src" path="VerificarCargo"/>
+	<classpathentry kind="src" path="Interfaces"/>
+	<classpathentry kind="src" path="Java Stream"/>
+	<classpathentry kind="src" path="Calculadora"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
